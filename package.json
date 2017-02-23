@@ -1,5 +1,5 @@
 {
-  "name": "mp-general-service",
+  "name": "mp-service",
   "version": "1.0.0",
   "description": "A skeleton for microservice",
   "main": "index.js",
